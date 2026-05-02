@@ -14,7 +14,7 @@ Power BI, DAX, Dashboard, Data Visualization
 5.	Customers in base tier shows higher CLV and lower churn.
 
 # Source
-
+data/C3_Project_Adidas Retail Customer Retention Analytics.docx.pdf
 
 # Conclusion
 The analysis shows that customer retention is most influenced by loyalty participation, purchase frequency, and franchise experience. By strengthening loyalty engagement, targeting at-risk segments with personalized promotions, and standardizing the franchise experience across channels, Adidas can significantly increase Customer Lifetime Value (CLV) and reduce churn. Implementing predictive analytics and ongoing monitoring will ensure long-term retention success. 
